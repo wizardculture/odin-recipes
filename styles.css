@@ -1,0 +1,12 @@
+#title {
+    background-color: aquamarine;
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.recipes {
+    font-style: italic;
+    font-weight: 500;
+    color: rgb(142, 94, 209);
+    padding: 20px;
+
+}
